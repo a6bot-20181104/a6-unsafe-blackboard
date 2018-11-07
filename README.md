@@ -12,3 +12,4 @@ Name: , Score: 507, Average wpm: 63, Total time: 36
 Name: , Score: 0, Average wpm: 9889, Total time: 0
 Name: , Score: 0, Average wpm: 1216, Total time: 0
 Name: , Score: 0, Average wpm: 1191, Total time: 2
+Name: , Score: 0, Average wpm: 11389, Total time: 0
