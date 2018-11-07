@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-
 12412-Cathy
 122-Omar
 122-Omar
 122-Omar
-=======
  hi
  bye
 Helen,30000000000,.01
@@ -27,5 +24,4 @@ Name: Deva, Score: 0, Average wpm: 1949, Total time: 0
 Name: Deva2, Score: 0, Average wpm: 2782, Total time: 0
 Name: , Score: 0, Average wpm: 2622, Total time: 0
 Name: Deva3, Score: 3114, Average wpm: 1343, Total time: 4
->>>>>>> f293eb3a018070c4e7aa4e08556050052ad0ede7
 122-Omar
