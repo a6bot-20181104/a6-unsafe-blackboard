@@ -25,3 +25,4 @@ Name: Deva2, Score: 0, Average wpm: 2782, Total time: 0
 Name: , Score: 0, Average wpm: 2622, Total time: 0
 Name: Deva3, Score: 3114, Average wpm: 1343, Total time: 4
 122-Omar
+122-Omar
