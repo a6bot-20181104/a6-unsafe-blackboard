@@ -37,7 +37,5 @@
 0-cathy
 651-deepit talesra
 0-cathy
--10-yoyo
 0-de
 83-cathy
--12833-de
