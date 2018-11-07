@@ -10,3 +10,4 @@ Name: , Score: 571, Average wpm: 77, Total time: 20
 Name: Deva, Score: 605, Average wpm: 75, Total time: 22
 Name: , Score: 507, Average wpm: 63, Total time: 36
 Name: , Score: 0, Average wpm: 9889, Total time: 0
+Name: , Score: 0, Average wpm: 1216, Total time: 0
