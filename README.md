@@ -61,11 +61,8 @@
 687-dEREK LiM
 0-cathy
 785-Daniel
-<<<<<<< HEAD
 360-Palini
-=======
 727-Daniel
 525-June
 0-Daniel
->>>>>>> fd0bc2589ee128a9559e9208f1fe646d95dcd988
 334-Palini
